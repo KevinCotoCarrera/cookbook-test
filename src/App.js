@@ -16,7 +16,7 @@ const recipes = [
 ];
 
 function App() {
-  return <div className="App">Let's add some content here</div>;
+  return <div className="text-center text-3xl">Let's add some content here</div>;
 }
 
 export default App;
